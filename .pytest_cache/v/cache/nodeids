@@ -1,0 +1,9 @@
+[
+  "test_coda_calculations.py::test_standard",
+  "test_coda_calculations.py::test_too_few_recieved",
+  "test_coda_calculations.py::test_too_many_in_stock",
+  "test_coda_calculations.py::test_incomplete_returns",
+  "test_coda_calculations.py::test_deploy",
+  "test_coda_calculations.py::test_deploy_2",
+  "test_coda_calculations.py::test_deploy_3"
+]
